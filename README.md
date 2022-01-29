@@ -46,3 +46,14 @@ Formula to create norm_amount column
 
 
 
+![image](https://user-images.githubusercontent.com/72062824/151671692-42b196a4-8655-4905-af49-6a3195566639.png)
+
+
+
+![image](https://user-images.githubusercontent.com/72062824/151671729-53d22b20-9f9a-4e86-9eaf-7b608d556e4c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/72062824/151671794-cfa7d5c8-9a57-4df4-86a1-1de24fdae690.png)
+
+
